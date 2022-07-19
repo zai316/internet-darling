@@ -1,0 +1,70 @@
+/* STYLE SECTIONING TAGS */
+body {
+ background-color: #648083; 
+  text-align: center;
+}
+
+/*header {
+  background-color: #546b6d ;
+}*/
+
+/* STYLE TEXT */
+
+h1 {
+  color: #2f3f4e;
+}
+p {
+color:	#a3aba0	;
+margin-bottom: 4em;
+}
+h2 {
+  color:  #cac0a5;
+  
+}
+ul {
+  color: black;
+  list-style-type: none;
+  overflow: hidden;
+  padding: 1em;
+}
+.gallery{
+  height: 480px;
+  width: 640px;
+  margin-bottom: 4em;
+}
+
+#self{
+  border-radius:50%;
+  max-height: 250px;
+  border: 3px solid #a3aba0;
+  margin-top: 2em;
+}
+#wip{
+  max-height: 400px;
+  text-align: right;
+  
+}
+li a {
+  text-decoration: none;
+  color:#cac0a5;
+  font-size; 2em;
+  padding; 1em;
+}
+li a:hover {
+  background-color: #a3aba0;
+}
+
+ li{
+   display: inline;
+   
+ }
+
+/* 	RGB
+#cac0a5	(202,192,165)
+#a3aba0	(163,171,160)
+#648083	(100,128,131)
+#2f3f4e	(47,63,78)
+#121315 */
+
+
+/* STYLE NAV BAR */
